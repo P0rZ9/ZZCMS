@@ -3,7 +3,7 @@
 user/ztconfig.php
 
 Vulnerability：
-5.jpg
+[]
 
 There is unlink($f) to delete any file by controlling the value of $f
 
