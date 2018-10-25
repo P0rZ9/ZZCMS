@@ -3,7 +3,7 @@ ZZCMS V2018
 SQL Injection
 
 code: user\checklogin.php
-
+![image](https://github.com/P0rZ9/ZZCMS/blob/master/1.jpg)
 Follow up this function：getip()
 
 check_isip is a filter function,Follow up:
