@@ -2,8 +2,9 @@
 
 user/ztconfig.php
 
+
 Vulnerability：
-[]
+![image](https://github.com/P0rZ9/ZZCMS/blob/master/5.jpg)
 
 There is unlink($f) to delete any file by controlling the value of $f
 
@@ -12,9 +13,9 @@ $oldbannerbg=isset($_POST["oldimg"])?$_POST["oldimg"]:'';
 
 
 Delete install/install.lock:
-6.jpg
+![image](https://github.com/P0rZ9/ZZCMS/blob/master/6.jpg)
 
 
 delete install/install.lock successfully
-7.jpg
+![image](https://github.com/P0rZ9/ZZCMS/blob/master/7.jpg)
 
